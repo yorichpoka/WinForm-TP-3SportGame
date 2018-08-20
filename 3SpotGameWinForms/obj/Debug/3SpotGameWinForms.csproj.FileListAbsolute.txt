@@ -1,0 +1,28 @@
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.exe.config
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.exe
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.pdb
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.csprojResolveAssemblyReference.cache
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\_3SpotGameWinForms.Form1.resources
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\_3SpotGameWinForms.Properties.Resources.resources
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.csproj.GenerateResource.Cache
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.exe
+c:\users\pp\documents\visual studio 2013\Projects\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.pdb
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.exe.config
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.exe
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.pdb
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\_3SpotGameWinForms.Form1.resources
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\_3SpotGameWinForms.Properties.Resources.resources
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.exe
+C:\Users\dell\Desktop\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.pdb
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.exe.config
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.exe
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.pdb
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.exe
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\bin\Debug\3SpotGameWinForms.pdb
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.csprojResolveAssemblyReference.cache
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\_3SpotGameWinForms.Properties.Resources.resources
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\3SpotGameWinForms.csproj.GenerateResource.Cache
+E:\DOCUMENTS\DUOAE\3SpotGameWinForms\3SpotGameWinForms\obj\Debug\_3SpotGameWinForms.View.AppForm.resources
